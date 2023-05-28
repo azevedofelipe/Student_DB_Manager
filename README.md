@@ -7,3 +7,6 @@ main_ui.py is the main file to launch the application
 Creates DB outside program folder ../cse2050_students_db.db
 
 
+## Install Guide
+pip install PyQt5
+
